@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hayden</h1>
-<h3 align="center">A passionate full-stack developer from Canada. I am currently studying Engineering with an intent to specialize in Software Engineering at McMaster University.</h3>
+<h3 align="center">A passionate full-stack developer from Canada. I am currently studying Computer Science at McMaster University.</h3>
 
 - 🔭 I’m currently working on [Syllabus-Scanner](https://github.com/Hayden9898/Syllabus-Scanner)
 
