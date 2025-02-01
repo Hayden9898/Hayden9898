@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Syllabus-Scanner](https://github.com/Hayden9898/Syllabus-Scanner)
 
-- 🌱 I’m currently learning **Flutter,Django,MySql,Bootstrap**
+- 🌱 I’m currently learning **React,Flutter,Django,MySql,Bootstrap**
 
 - 👨‍💻 All of my projects are available at (Coming soon...)
 
