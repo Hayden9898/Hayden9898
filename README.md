@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">A passionate full-stack developer from Canada. I am currently studying Computer Science at McMaster University.</h3>
 
-- 🔭 I’m currently working on [Syllabus-Scanner](https://github.com/Hayden9898/Syllabus-Scanner)
+- 🔭 I’m currently working on Python Machine Learning
 
-- 🌱 I’m currently learning **React,Flutter,Django,MySql,Bootstrap**
+- 🌱 I’m currently learning **Jupyter's NoteBook, MongoDB, NodeJs, ExpressJS**
 
 - 👨‍💻 All of my projects are available at (Coming soon...)
 
 - 📫 How to reach me **choih47@mcmaster.ca**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/hayden-choi9" target="_blank" rel="noopener noreferrer">LinkedIn</a></h3>
 <p align="left">
 </p>
 
