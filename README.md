@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">A passionate full-stack developer from Canada. I am currently studying Computer Science at McMaster University.</h3>
 
-- 🔭 I’m currently working on Python Machine Learning
+- 🔭 I’m currently working on Football Match Predictor
 
 - 🌱 I’m currently learning **Jupyter's NoteBook, MongoDB, NodeJs, ExpressJS**
 
