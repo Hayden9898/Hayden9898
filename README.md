@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hayden</h1>
-<h3 align="center">A passionate full-stack developer from Canada. I am currently studying Computer Science at McMaster University.</h3>
+<h3 align="center">A passionate Software Engineer from Canada. I am currently studying Computer Science at McMaster University and I am in my 2nd year.</h3>
 
 - 🔭 I’m currently working on Football Match Predictor
 
