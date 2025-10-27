@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Hayden Choi
 
-I'm a Computer Science student at **McMaster University** and a **Software Engineering Intern at <a href="https://studio1labs.com" target="_blank" rel="noopener noreferrer">Studio1Labs</a>**.  
-I love building practical tools that save people time and solve real problems.
+I'm a Computer Science student at **McMaster University** and was a **Software Engineering Intern at <a href="https://studio1labs.com" target="_blank" rel="noopener noreferrer">Studio1Labs</a>**.  
+I love building software that **creates real impact** — seeing my work actively used by others motivates me to keep improving and innovating.
 
 ---
 
