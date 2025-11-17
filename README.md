@@ -19,7 +19,7 @@ I love building software that **creates real impact** — seeing my work activel
 ---
 
 ### 🚧 What I’m Working On
-- <a href="https://github.com/Hayden9898/twitter-clone" target="_blank" rel="noopener noreferrer">**Twitter-clone**</a> (full-stack): implementing authentication, user interactions, and real-time updates.
+- Building an automated cold outreach system with highly personalized responses and response analytics
 
 ---
 
