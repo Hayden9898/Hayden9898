@@ -19,7 +19,7 @@ I love building software that **creates real impact** — seeing my work activel
 ---
 
 ### 🚧 What I’m Working On
-- Building an automated cold outreach system with highly personalized responses and response analytics
+- Building an <a href="https://github.com/Hayden9898/ColdApproach-AI" target="_blank" rel="noopener noreferrer">automated cold outreach system</a> with highly personalized responses and response analytics
 
 ---
 
