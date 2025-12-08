@@ -7,13 +7,16 @@ I love building software that **creates real impact** — seeing my work activel
 
 ### 💼 Here’s Where I’ve Worked 😎
 
-**Software Engineering Intern @ <a href="https://studio1labs.com" target="_blank" rel="noopener noreferrer">Studio1Labs</a>**  
+**Software Engineer Intern @ <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** 
+- Winter 2026
+
+**Software Engineer Intern @ <a href="https://studio1labs.com" target="_blank" rel="noopener noreferrer">Studio1Labs</a>**  
 - Integrated **high-resolution tactile sensors** with a **real-time data streaming GUIs** for responsive textile sensing.
 
-**Software Engineering Intern @ <a href="https://manaimmigration.com" target="_blank" rel="noopener noreferrer">Mana Immigration</a>**  
+**Software Engineer Intern @ <a href="https://manaimmigration.com" target="_blank" rel="noopener noreferrer">Mana Immigration</a>**  
 - Developed and maintained **client-facing Flutter web applications** for international businesses.
 
-**Software Engineering Intern @ <a href="https://www.broadcastfantasia.com/" target="_blank" rel="noopener noreferrer">Broadcast Fantasia</a>**  
+**Software Engineer Intern @ <a href="https://www.broadcastfantasia.com/" target="_blank" rel="noopener noreferrer">Broadcast Fantasia</a>**  
 - Managed and maintained the company’s **Shopify E-commerge webpage**.
 
 ---
