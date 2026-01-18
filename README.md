@@ -1,14 +1,15 @@
 ## 👋 Hi, I'm Hayden Choi
 
-I'm a Computer Science student at **McMaster University** and was a **Software Engineering Intern at <a href="https://studio1labs.com" target="_blank" rel="noopener noreferrer">Studio1Labs</a>**.  
-I love building software that **creates real impact** — seeing my work actively used by others motivates me to keep improving and innovating.
+I'm a Computer Science student at **McMaster University** and currently **Software Engineering Intern at <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** where I am building their newest assessment model which will be served to companies like IBM, TMX, Deloitte, and many more!  
+I love building software that **creates real impact** and having **product ownership** over things I build!
+My github may look a bit empty this Winter term since my company doesn't use github to track their codebase. 
 
 ---
 
 ### 💼 Here’s Where I’ve Worked 😎
 
 **Software Engineer Intern @ <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** 
-- Winter 2026
+- Spearheading development for their newest assessment model! Coming soon!
 
 **Software Engineer Intern @ <a href="https://studio1labs.com" target="_blank" rel="noopener noreferrer">Studio1Labs</a>**  
 - Integrated **high-resolution tactile sensors** with a **real-time data streaming GUIs** for responsive textile sensing.
@@ -29,6 +30,8 @@ I love building software that **creates real impact** — seeing my work activel
 ### 🛠️ My Favourite Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
