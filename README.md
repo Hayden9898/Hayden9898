@@ -12,7 +12,7 @@ My github may look a bit empty this Winter term since my company doesn't use git
 - Spearheading development for their newest assessment model! Coming soon!
 
 **Software Engineer Intern @ <a href="https://studio1labs.com" target="_blank" rel="noopener noreferrer">Studio1Labs</a>**  
-- Integrated **high-resolution tactile sensors** with a **real-time data streaming GUIs** for responsive textile sensing.
+- Helped raise **1.8m+** for a startup coming out of stealth through an intern project, co-authored an IROS 2025 paper recieving "Best Poster Finalist Award"
 
 **Software Engineer Intern @ <a href="https://manaimmigration.com" target="_blank" rel="noopener noreferrer">Mana Immigration</a>**  
 - Developed and maintained **client-facing Flutter web applications** for international businesses.
