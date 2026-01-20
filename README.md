@@ -2,6 +2,7 @@
 
 I'm a Computer Science student at **McMaster University** and currently **Software Engineering Intern at <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** where I am building their newest assessment model which will be served to companies like IBM, TMX, Deloitte, and many more!  
 I love building software that **creates real impact** and having **product ownership** over things I build!
+
 My github may look a bit empty this Winter term since my company doesn't use github to track their codebase. 
 
 ---
