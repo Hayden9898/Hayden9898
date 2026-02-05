@@ -10,7 +10,7 @@ My github may look a bit empty this Winter term since my company doesn't use git
 ### 💼 Here’s Where I’ve Worked 😎
 
 **Software Engineer Intern @ <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** 
-- Spearheading development for their newest assessment model! Coming soon!
+- Developing an agent to automate candidate support requests, implementing assessment proctoring to catch cheaters!
 
 **Software Engineer Intern @ <a href="https://studio1labs.com" target="_blank" rel="noopener noreferrer">Studio1Labs</a>**  
 - Helped raise **$1.8m+** for a startup coming out of stealth through an intern project, co-authored an IROS 2025 paper recieving "Best Poster Finalist Award"
