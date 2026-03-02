@@ -1,19 +1,17 @@
 ## 👋 Hi, I'm Hayden Choi
 
-I'm a Computer Science student at **McMaster University** and currently **Software Engineering Intern at <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** where I am building their newest assessment model which will be served to companies like IBM, TMX, Deloitte, and many more!  
+I'm a Computer Science student at **McMaster University** and currently **Software Engineering Intern at <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** where I am building their newest assessment model and an internal agent tool, which will be served to companies like IBM, TMX, Deloitte, and many more!  
 I love building software that **creates real impact** and having **product ownership** over things I build!
-
-My github may look a bit empty this Winter term since my company doesn't use github to track their codebase. 
 
 ---
 
 ### 💼 Here’s Where I’ve Worked 😎
 
 **Software Engineer Intern @ <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** 
-- Developing an agent to automate candidate support requests, implementing assessment proctoring to catch cheaters!
+- Developing an agent to automate candidate support requests and implementing/improving assessment proctoring to minimize cheaters!
 
 **Software Engineer Intern @ <a href="https://studio1labs.com" target="_blank" rel="noopener noreferrer">Studio1Labs</a>**  
-- Helped raise **$1.8m+** for a startup coming out of stealth through an intern project, co-authored an IROS 2025 paper recieving "Best Poster Finalist Award"
+- Helped raise **$1.6m+** for a startup coming out of stealth through an intern project, co-authored an IROS 2025 paper recieving "Best Poster Finalist Award".
 
 **Software Engineer Intern @ <a href="https://manaimmigration.com" target="_blank" rel="noopener noreferrer">Mana Immigration</a>**  
 - Developed and maintained **client-facing Flutter web applications** for international businesses.
@@ -53,8 +51,8 @@ My github may look a bit empty this Winter term since my company doesn't use git
 
 ### 📫 Let’s Connect!
 
-- **🌐 Website:** *coming soon*  
-- **💼 LinkedIn:** <a href="https://www.linkedin.com/in/hayden-choi9/" target="_blank" rel="noopener noreferrer">hayden-choi9</a>  
-- **📧 Email:** choih47@mcmaster.ca
+- **🌐 Personal Webpage:** <a href="https://www.haydenchoi.com" target="_blank" rel="noopener noreferrer">Portfolio!</a> 
+- **💼 LinkedIn:** <a href="https://www.linkedin.com/in/hayden-choi9/" target="_blank" rel="noopener noreferrer">hayden-choi</a>  
+- **📧 Email:** [haydenc9898@gmail.com](mailto:haydenc9898@gmail.com)
 
 ---
