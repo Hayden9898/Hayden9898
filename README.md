@@ -11,7 +11,7 @@ I love building software that **creates real impact** and having **product owner
 - Developing an agent to automate candidate support requests and implementing/improving assessment proctoring to minimize cheaters!
 
 **Software Engineer Intern @ <a href="https://studio1labs.com" target="_blank" rel="noopener noreferrer">Studio1Labs</a>**  
-- Helped raise **$1.6m+** for a startup coming out of stealth through an intern project, co-authored an IROS 2025 paper recieving "Best Poster Finalist Award".
+- Helped raise **$1.6m+** for a startup coming out of stealth through an intern project, co-authored an <a href="https://openreview.net/forum?id=rERVPj0ptn" target="_blank" rel="noopener noreferrer">"IROS 2025 paper</a> recieving <a href="https://sites.google.com/view/iros-2025-workshop-tactile/accepted-papers" target="_blank" rel="noopener noreferrer">"Best Poster Finalist Award"</a>.
 
 **Software Engineer Intern @ <a href="https://manaimmigration.com" target="_blank" rel="noopener noreferrer">Mana Immigration</a>**  
 - Developed and maintained **client-facing Flutter web applications** for international businesses.
