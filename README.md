@@ -7,6 +7,8 @@ I love building software that **creates real impact** and having **product owner
 
 ### 💼 Here’s Where I’ve Worked 😎
 
+**Software Engineer Intern @ <a href="https://www.trendaisecurity.com/en/" target="_blank" rel="noopener noreferrer">Trend Micro</a>** 
+
 **Software Engineer Intern @ <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** 
 - Developing an agent to automate candidate support requests and implementing/improving assessment proctoring to minimize cheaters!
 
