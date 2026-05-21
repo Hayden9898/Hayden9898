@@ -18,9 +18,6 @@ I love building software that **creates real impact** and having **product owner
 **Software Engineer Intern @ <a href="https://manaimmigration.com" target="_blank" rel="noopener noreferrer">Mana Immigration</a>**  
 - Developed and maintained **client-facing Flutter web applications** for international businesses.
 
-**Software Engineer Intern @ <a href="https://www.broadcastfantasia.com/" target="_blank" rel="noopener noreferrer">Broadcast Fantasia</a>**  
-- Managed and maintained the company’s **Shopify E-commerge webpage**.
-
 ---
 
 ### 🚧 What I’m Working On
