@@ -1,14 +1,13 @@
 ## 👋 Hi, I'm Hayden Choi
 
-I'm a Computer Science student at **McMaster University** and currently **Software Engineering Intern at <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** where I am building their newest assessment model and an internal agent tool, which will be served to companies like IBM, TMX, Deloitte, and many more!  
-I love building software that **creates real impact** and having **product ownership** over things I build!
+I'm a Computer Science student at **McMaster University** and currently **Software Engineering Intern at <a href="https://www.trendaisecurity.com/en/" target="_blank" rel="noopener noreferrer">TrendAI</a>** where I am building a customer risk assessment model to handle user data around the entire world and find patterns to improve our products!
 
 ---
 
 ### 💼 Here’s Where I’ve Worked 😎
 
 **Software Engineer Intern @ <a href="https://www.trendaisecurity.com/en/" target="_blank" rel="noopener noreferrer">Trend Micro</a>** 
-- Third Party Integration
+- Third Party Integration (CLoud & Infra)
 
 **Software Engineer Intern @ <a href="https://knockri.com/" target="_blank" rel="noopener noreferrer">Knockri</a>** 
 - Developing an agent to automate candidate support requests and implementing/improving assessment proctoring to minimize cheaters!
