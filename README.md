@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hayden Choi
 
-I'm a Computer Science student at **McMaster University** and currently **Software Engineering Intern at <a href="https://www.trendaisecurity.com/en/" target="_blank" rel="noopener noreferrer">TrendAI</a>** where I am building a customer risk assessment model to handle user data around the entire world and find patterns to improve our products!
+I'm a Computer Science student at **McMaster University** and currently **Software Engineering Intern at <a href="https://www.trendaisecurity.com/en/" target="_blank" rel="noopener noreferrer">TrendAI</a>** where I am building a customer risk assessment model to proactively fix/improve our risk events before future issues occur!
 
 ---
 
