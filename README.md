@@ -5,6 +5,8 @@ I'm a Computer Science student at **McMaster University** and currently **Softwa
 ---
 
 ### 💼 Here’s Where I’ve Worked 😎
+**Software Engineer Intern @ <a href="https://www.wealthsimple.com/en-ca" target="_blank" rel="noopener noreferrer">Wealthsimple</a>** 
+- Fraud & Risk
 
 **Software Engineer Intern @ <a href="https://www.trendaisecurity.com/en/" target="_blank" rel="noopener noreferrer">Trend Micro</a>** 
 - Third Party Integration (Cloud & Infra)
