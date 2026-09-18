@@ -23,7 +23,7 @@ I'm a Computer Science student at **McMaster University** and currently **Softwa
 ---
 
 ### 🚧 What I’m Working On
-- Building an <a href="https://github.com/Hayden9898/ColdApproach-AI" target="_blank" rel="noopener noreferrer">automated cold outreach system</a> with highly personalized responses and response analytics
+- Doing hackathons and a planning my next project for now!
 
 ---
 
