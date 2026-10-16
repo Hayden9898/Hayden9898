@@ -23,7 +23,7 @@ I'm a Computer Science student at **McMaster University** and currently **Softwa
 ---
 
 ### 🚧 What I’m Working On
-- Doing hackathons and a planning my next project for now!
+- Building a personal assistant which can build, test, and ship its own integrations with other platforms based on your needs. Kind of like a software factory for connectors!
 
 ---
 
