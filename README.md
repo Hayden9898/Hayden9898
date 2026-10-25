@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hayden Choi
 
-I'm a Computer Science student at **McMaster University** and currently **Software Engineering Intern at <a href="https://www.wealthsimple.com/en-ca" target="_blank" rel="noopener noreferrer">Wealthsimple</a>** building fraud detection services to protect over $4B+ in assets!
+I'm a Computer Science student at **McMaster University** and currently **Software Engineering Intern at <a href="https://www.wealthsimple.com/en-ca" target="_blank" rel="noopener noreferrer">Wealthsimple</a>** building fraud detection services to protect over $4B+ in assets! Joining Shopify this winter.
 
 ---
 
