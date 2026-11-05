@@ -24,6 +24,7 @@ I'm a Computer Science student at **McMaster University** and currently **Softwa
 
 ### 🚧 What I’m Working On
 - Building a personal assistant which can build, test, and ship its own integrations with other platforms based on your needs. Kind of like a software factory for connectors!
+- Training an ML model for detecting suspicious/fraudulent bitcoin transactions using GNNs and XGBoost.
 
 ---
 
