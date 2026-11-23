@@ -9,7 +9,7 @@ I'm a Computer Science student at **McMaster University** and currently **Softwa
 - Incoming Winter 2027
 
 **Software Engineer Intern @ <a href="https://www.wealthsimple.com/en-ca" target="_blank" rel="noopener noreferrer">Wealthsimple</a>** 
-- Fraud & Risk (Risk Engineering) 
+- Fraud & Risk (Financial Risk) 
 
 **Software Engineer Intern @ <a href="https://www.trendaisecurity.com/en/" target="_blank" rel="noopener noreferrer">Trend Micro</a>** 
 - Third Party Integration (Cloud & Infra)
